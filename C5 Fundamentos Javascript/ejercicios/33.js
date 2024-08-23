@@ -7,6 +7,7 @@ function elevar(num, exponent) {
   // 2, 2 ---> 4
   // 0, 5 ---> 0
   // Tu código:
+  let potencia= Math.pow(num, exponent)
+  return potencia;
 }
-
 module.exports = elevar;

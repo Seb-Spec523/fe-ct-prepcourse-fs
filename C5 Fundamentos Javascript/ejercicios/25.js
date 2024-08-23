@@ -4,6 +4,7 @@ function combinarNombres(nombre, apellido) {
   // Por ejemplo: 
   // "Soy", "Henry" ---> "Soy Henry"
   // Tu código:
+  let combinacion= nombre + " " + apellido
+  return combinacion; 
 }
-
 module.exports = combinarNombres;

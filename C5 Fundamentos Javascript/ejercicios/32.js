@@ -7,6 +7,7 @@ function elevarAlCubo(num) {
   // 3 ---> 27
   // 0 ---> 0
   // Tu código:
+  let potencia= Math.pow(num, 3)
+  return potencia;
 }
-
 module.exports = elevarAlCubo;
