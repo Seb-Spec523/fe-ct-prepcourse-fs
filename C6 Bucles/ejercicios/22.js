@@ -3,6 +3,11 @@ function doWhile(num) {
   // Retorna el valor final.
   // PISTA: Utiliza el bucle do-while.
   // Tu código:
+  let i= 0;
+  let sumatoria= num;
+  do {sumatoria += 5;
+    i++;
+  } while (i < 8); 
+  return sumatoria;
 }
-
 module.exports = doWhile;

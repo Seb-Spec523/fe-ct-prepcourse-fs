@@ -70,8 +70,7 @@ Para ejecutar los tests de las homeworks debes:
 
 Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. ¿Recordemos cómo hacer esto?
 
-Deberás ejecutar estos comandos:
-
+Deberás ejecutar estos comandos: 
 ```bash
 git add .
 // Este comando te permitirá guardar tus cambios en Git.
